@@ -8,3 +8,4 @@ This website will explain why having a good search engine optimization will help
 ## link to webpage 
 http://127.0.0.1:5500/index.html#search-engine-optimization
 ## Screenshot
+![Horiseon webpage](https://user-images.githubusercontent.com/129688536/232621054-0c72f875-1ce0-495c-8f0a-d3dd0047c8de.png)
