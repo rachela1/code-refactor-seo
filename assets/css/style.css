@@ -77,7 +77,7 @@ p {
     height: 50%;
     display: inline-block;  
 }
-
+/* changed Search, online, and social to posts. */
 .posts {
     margin-bottom: 20px;
     padding: 50px;
